@@ -66,8 +66,11 @@ Accessed the File History restore interface and located previously backed-up fil
 <br />
 Restored the deleted file from backup and verified that the recovered data was successfully returned to the original directory. <br/>
 <img width="926" height="752" alt="Screenshot 2026-03-10 at 7 33 30 PM" src="https://github.com/user-attachments/assets/bed17cdd-6659-474e-afc9-adbdc862a100" />
+<br />
+<br />
+Created a system restore point to provide an additional recovery option for system configuration changes.
+ <img width="926" height="752" alt="Screenshot 2026-03-10 at 7 36 34 PM" src="https://github.com/user-attachments/assets/4d82cbc7-74b0-4a67-bcb5-04c61e5ebd4e" />
 
- 
 </p>
 
 <!--
